@@ -188,7 +188,7 @@ for (let i = 0; i < 10; i++) {
 const sample = new Object();
 
 // 날짜 정보 객체
-const date = new Date(2023, 2, 1);
+const date = new Date();
 // gat~~~: 날짜 정보를 가져올 때
 console.log(date.getDay()); // 요일 정보: 0(일요일)~6(토요일)
 console.log(date.getMonth()); // 월 정보: (현재 월-1)
