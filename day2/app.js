@@ -119,4 +119,4 @@ history.forward(); // 다음 방문 사이트로 이동 (만약 없다면 이동
 navigator.language; // 현재 유저의 사용 언어를 가져온다
 console.log(navigator.onLine); // 유저의 온라인 여부를 실시간으로 반환한다(boolean)
 
-// 3. 문서 객체 모델(DOM): html문서 구조 => jQuery로 처리
+// 3. 문서 객체 모델(DOM): html문서 구조
